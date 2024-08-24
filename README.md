@@ -1,9 +1,9 @@
 ### Hi, I'm @alana-anderson
-:metal: __XP__: 10+ yrs Engineering & Leadership 
+:metal: __XP__: 13+ yrs Engineering & Leadership 
 
-:gem: __Role__: Sr. Engineering Manager
+:gem: __Role__: Director of Engineering
 
-:magic_wand: __Class__: Support Druid
+:magic_wand: __Class__: Druid Support
 
 I create environments that inspire radical candor, psychological safety, and innovation while allowing individuals and teams to thrive
 whether on-site or distributed (mainly distributed now :P).
