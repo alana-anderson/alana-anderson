@@ -1,7 +1,7 @@
 ### Hi, I'm @alana-anderson
-:metal: __XP__: 13+ yrs Engineering & Leadership 
+:metal: __XP__: 15+ yrs Engineering & Leadership 
 
-:gem: __Role__: Director of Engineering
+:gem: __Role__: Sr Director of Engineering
 
 :magic_wand: __Class__: Druid Support
 
